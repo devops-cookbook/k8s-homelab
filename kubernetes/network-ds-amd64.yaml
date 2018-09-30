@@ -9,7 +9,7 @@ metadata:
   generation: 2
   labels:
     k8s-app: kube-proxy
-  name: kube-proxy
+  name: kube-proxy-amd
   namespace: kube-system
   resourceVersion: "4748"
   selfLink: /apis/extensions/v1beta1/namespaces/kube-system/daemonsets/kube-proxy
